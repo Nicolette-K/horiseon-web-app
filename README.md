@@ -1,4 +1,4 @@
-# Horiseon Web Application
+# horiseon-web-app
 
 ## Description
 
